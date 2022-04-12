@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="style.css">
 <details class="dropdown">
     <summary role="button">
       <a class="button">Click on me!</a>
